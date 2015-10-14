@@ -1,5 +1,5 @@
-# boggle
-Java boggle V3.0
+# Boggle
+Java Boggle V3.0
 
 
 This project was made for the class Object Oriented Programming for the University of Central Florida. 
