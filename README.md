@@ -18,5 +18,5 @@ Fixed bugs:
 
 Want to contribute?
 
-Feel free to use this code! The most problematic piece is the GUI, it would be nice to merge it from Java.x.swing to something like GWIT so it can be implemented online. 
+Feel free to use this code! The most problematic piece is the GUI, it would be nice to merge it from Java.x.swing to something like GWIT so it can be implemented online regardless of platform. 
 
