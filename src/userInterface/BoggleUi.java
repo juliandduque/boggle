@@ -237,6 +237,7 @@ public class BoggleUi extends JFrame {
                 setupSouthPanel();
                 currentS = 0;
                 lastB=17;
+                wordsFound.clear();
                 bogWords = bogWorder;
                
         }
@@ -261,6 +262,7 @@ public class BoggleUi extends JFrame {
                 setupSouthPanel();
                 currentS = 0;
                 lastB = 17;
+                wordsFound.clear();
                 bogWords = bogWorder;              
         }
    }
